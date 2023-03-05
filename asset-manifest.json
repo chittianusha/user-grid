@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/user-grid/static/css/main.e6c13ad2.css",
+    "main.js": "/user-grid/static/js/main.7f4a0663.js",
+    "static/js/787.ab70becc.chunk.js": "/user-grid/static/js/787.ab70becc.chunk.js",
+    "index.html": "/user-grid/index.html",
+    "main.e6c13ad2.css.map": "/user-grid/static/css/main.e6c13ad2.css.map",
+    "main.7f4a0663.js.map": "/user-grid/static/js/main.7f4a0663.js.map",
+    "787.ab70becc.chunk.js.map": "/user-grid/static/js/787.ab70becc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7f4a0663.js"
+  ]
+}
